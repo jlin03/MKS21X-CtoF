@@ -10,5 +10,7 @@ public class CtoFTester {
 	public static void main(String[] args) {
 		System.out.println(celsiusToFahrenheit(64));
 		System.out.println(fahrenheitToCelsius(50));
+		System.out.println(celsiusToFahrenheit(122));
+		System.out.println(fahrenheitToCelsius(17.77777777));
 	}
 }
